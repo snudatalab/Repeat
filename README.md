@@ -57,3 +57,15 @@ You should add paths into MATLAB environment before you run our proposed method.
 We provide demo scripts to run our method Repeat for real-world datasets.
 Then, type the following command to run the demo:
     `run demo_us.m` or `run demo_kr.m`
+
+## Reference
+
+If you use this code, please cite the following paper.
+```bibtex
+@inproceedings{jang2024fast,
+  title={Fast and accurate parafac2 decomposition for time range queries on irregular tensors},
+  author={Jang, Jun-Gi and Park, Yong-chan and Kang, U},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={962--972},
+  year={2024}
+}
